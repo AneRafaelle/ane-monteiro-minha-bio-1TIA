@@ -1,13 +1,18 @@
 body {
-    background-color: aliceblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(182, 208, 247);
+    font-family:'Times New Roman', Times, serif;
     color: black;
     margin-bottom: 20px;
 }
  img {
         display: block;
-        margin: 10 auto;
-        max-width: 40%;
+        margin: 0 auto;
+        max-width: 30%;
         height: auto;
 
+    }
+ 
+    .links{
+        padding: 20px;
+        border-bottom: 2px solid cornflowerblue;
     }
